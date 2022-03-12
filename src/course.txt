@@ -1,0 +1,11 @@
+new things i learn today i.e
+=> single page application importants in new modern websites which helps to build client side page rendering ,
+we can create multiple pages or component to load in single html page and switch multiple page with  useing anchor tags.
+=> route is use to set path of component
+=> switch is to switch into multiple page but it matches first occurencs of given path load it on same page to avoid this we 
+can use exact prop  to match whole path
+=> Link is used to navigate the different routes on the site. 
+=> NavLink is used to add the style attributes to the active routes. 
+=> reDirect when user put wrong path to input if doesn't found then reDirect to given path 
+=> useParams extract dynamic path of component, from given route path which denote by ":anystring"
+
