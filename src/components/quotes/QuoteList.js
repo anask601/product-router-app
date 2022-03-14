@@ -1,7 +1,7 @@
-import { Fragment } from 'react';
-
-import QuoteItem from './QuoteItem';
-import classes from './QuoteList.module.css';
+import { Fragment } from "react";
+import React from "react";
+import QuoteItem from "./QuoteItem";
+import classes from "./QuoteList.module.css";
 
 const QuoteList = (props) => {
   return (

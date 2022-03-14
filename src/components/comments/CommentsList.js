@@ -1,6 +1,6 @@
-import CommentItem from './CommentItem';
-import classes from './CommentsList.module.css';
-
+import CommentItem from "./CommentItem";
+import classes from "./CommentsList.module.css";
+import React from "react";
 const CommentsList = (props) => {
   return (
     <ul className={classes.comments}>

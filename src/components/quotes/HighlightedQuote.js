@@ -1,5 +1,5 @@
-import classes from './HighlightedQuote.module.css';
-
+import classes from "./HighlightedQuote.module.css";
+import React from "react";
 const HighlightedQuote = (props) => {
   return (
     <figure className={classes.quote}>
